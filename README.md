@@ -10,7 +10,7 @@
 
 <p align = "justify">Estudante de Engenharia da Computação, apaixonado por jogos Online, dedicado a estudos de tecnologias WEB.</p>
 
-Atualmente trabalho como Analista de T.I na [Balas Santa Rita](https://www.balasantarita.com.br) . Porém também focado em projetos pessoais.
+Atualmente trabalho como Analista de Implantação na [Prontomed MG](http://www.prontomedmg.com.br) . Porém também focado em projetos pessoais.
 
 Estou aprendendo no momento **ReactNative e ReactJS**.
 
