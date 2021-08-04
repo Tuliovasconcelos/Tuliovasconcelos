@@ -12,7 +12,7 @@
 
 Atualmente trabalho como Analista de Implantação na [Prontomed MG](http://www.prontomedmg.com.br) . Porém também focado em projetos pessoais.
 
-Estou aprendendo no momento **ReactNative e ReactJS**.
+Estou aprendendo no momento **ReactNative e ReactJS // Flutter**.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
 
