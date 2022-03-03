@@ -8,7 +8,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
 
-<p align = "justify">Estudante de Engenharia da Computação, apaixonado por jogos Online, dedicado a estudos de tecnologias WEB.</p>
+<p align = "justify">Estudante de Engenharia da Computação, apaixonado por jogos Online, dedicado a estudos de tecnologias.</p>
 
 Atualmente trabalho como Analista de Implantação na [Prontomed MG](http://www.prontomedmg.com.br) . Porém também focado em projetos pessoais.
 
