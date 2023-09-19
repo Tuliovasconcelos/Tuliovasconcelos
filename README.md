@@ -10,7 +10,7 @@
 
 <p align = "justify">Estudante de Engenharia da Computação, dedicado a estudos de tecnologias.</p>
 
-Atualmente trabalho como Analista de Implantação na [Prontomed MG](http://www.prontomedmg.com.br) . Também focado em projetos pessoais.
+Atualmente trabalho como Coordenador de desenvolvimento na [Prontomed MG](http://www.prontomedmg.com.br) . Também focado em projetos pessoais.
 
 Estou aprendendo no momento **ReactNative e ReactJS // Flutter**.
 
