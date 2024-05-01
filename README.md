@@ -1,22 +1,5 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tuliovasconcelos" alt="tuliovasconcelos" /></p>
-
-
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Túlio !!</h1>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Tuliovasconcelos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/t%C3%BAlio-vasconcelos-18a021190/)
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
-
-<p align = "justify">Estudante de Engenharia da Computação, dedicado a estudos de tecnologias.</p>
-
-Atualmente trabalho como Coordenador de desenvolvimento na [Prontomed MG](http://www.prontomedmg.com.br) . Também focado em projetos pessoais.
-
-Estou aprendendo no momento **ReactNative e ReactJS // Flutter**.
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
-
-## 🚀💻 Tecnologias & Ferramentas
+<p>Venha fazer parte do futuro: https://divsoft.tech/</p>
 
 <div align="left">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
